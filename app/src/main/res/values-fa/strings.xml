@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نرم افزار من</string>
+    <string name="btn_main_editprofile">ویرایش پروفایل</string>
+    <string name="btn_main_viewwebsite">مراجعه به وب سایت</string>
+    <string name="txt_main_title">نمونه نرم افزار اندروید</string>
+    <string name="txt_main_skilltitle">مهارت ها</string>
+    <string name="txt_main_sfullname">مریم سماوات</string>
+    <string name="txt_main_constraintpic">مریم سماوات</string>
+    <string name="txt_main_checkbox1">توسعه اندروید</string>
+    <string name="txt_main_checkbox2">طراحی UI</string>
+    <string name="txt_main_checkbox3">Deep Learning</string>
+    <string name="txt_main_citytitle">شهر</string>
+    <string name="radio_main_radiobtn1">گیلان - رشت </string>
+    <string name="radio_main_radiobtn2">تهران - تهران </string>
+    <string name="radio_main_radiobtn3">البرز - کرج</string>
+    <string name="btn_main_saveinformation"> ذخیره اطلاعات </string>
+    <string name="txt_editprofile_entername">نام کامل خود را وارد کنید </string>
+    <string name="btn_editprofile_done">انجام شد</string>
+
+
+</resources>

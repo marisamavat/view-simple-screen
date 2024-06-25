@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">viewapp</string>
+
+         <string name="btn_main_editprofile">Edit profile</string>
+        <string name="btn_main_viewwebsite">View Website</string>
+        <string name="txt_main_title">Android Simple Views</string>
+        <string name="txt_main_skilltitle">Skills</string>
+        <string name="txt_main_sfullname">Maryam Samavat</string>
+        <string name="txt_main_constraintpic">Maryam Samavat</string>
+        <string name="txt_main_checkbox1">Android Development</string>
+        <string name="txt_main_checkbox2">UI Design</string>
+        <string name="txt_main_checkbox3">Deep Learning</string>
+        <string name="txt_main_citytitle">City</string>
+        <string name="radio_main_radiobtn1">Gilan,Rasht</string>
+        <string name="radio_main_radiobtn2">Tehran,Tehran</string>
+        <string name="radio_main_radiobtn3">Alborz,Karaj</string>
+        <string name="btn_main_saveinformation">Save Information</string>
+        <string name="txt_editprofile_entername">Enter Your Full Name</string>
+        <string name="btn_editprofile_done">done</string>
+
+</resources>
